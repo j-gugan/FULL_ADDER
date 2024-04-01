@@ -1,6 +1,6 @@
 # FULL_ADDER
 # Aim:
-To simulate and synthesis half adder using Vivado.
+To simulate and synthesis full adder using Vivado.
 
 # Apparatus Required:
 Vivado
