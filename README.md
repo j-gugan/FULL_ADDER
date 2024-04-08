@@ -2,7 +2,7 @@
 # Aim:
 To simulate and synthesis full adder using Vivado.
 
-# Apparatus Required:
+# Software Required:
 Vivado
 
 # Procedure:
@@ -28,6 +28,6 @@ endmodule
 # Output
 ![full adder](https://github.com/j-gugan/FULL_ADDER/assets/163828735/cdfd807d-ba28-447b-9f3a-b64a13d43034)
 # Result:
-Thus,Full adder using Vivado is stimulated and synthesised.
+Thus,Full adder using Vivado is simulated and synthesised.
 
 
